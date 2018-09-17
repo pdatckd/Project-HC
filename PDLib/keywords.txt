@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For PDLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PDLib	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ReadBatVolt	KEYWORD2
+ReadTemp	KEYWORD2
+ReadCurrent	KEYWORD2
+ReadFuelTank	KEYWORD2
+ReadHandBrake	KEYWORD2
+ReadOilPressure	KEYWORD2
+GetStateVehicle	KEYWORD2
+GetTimeRunning	KEYWORD2
+BeginC_TimeRun	KEYWORD2
+EndC_TimeRun	KEYWORD2
+ResetMaintenance	KEYWORD2
+Check_Eror	KEYWORD2
+Check_DangerState	KEYWORD2
+GetStateSys	KEYWORD2
+Setting_Defauts	KEYWORD2
+ReadDataBoard	KEYWORD2
+ConfigGPIO	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
